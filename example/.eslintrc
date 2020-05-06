@@ -1,0 +1,10 @@
+
+{
+  "settings": {
+    "import/core-modules": [ "react-navigation-addons" ]
+  },
+
+  "rules": {
+    "react/prop-types": "off",
+  }
+}
